@@ -2,8 +2,8 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
+  title: '모라니크 프론트엔드', // e.g: 'Name | Developer'
+  lang: 'kr', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
 
@@ -17,8 +17,8 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
+  img: 'moranique-service.jpg',
+  paragraphOne: '장봄과 이원학의 피 땀 눈물의 결실',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
